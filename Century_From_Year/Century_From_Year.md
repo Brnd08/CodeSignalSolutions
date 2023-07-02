@@ -1,4 +1,4 @@
-# :large_blue_diamond: Add Challenge:
+# :large_blue_diamond: Century from year Challenge
 
 ## Challenge description
 <div class="markdown -arial"><p>Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc.</p>
