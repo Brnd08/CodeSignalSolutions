@@ -12,16 +12,16 @@ In this document you can also find a list containing the links to all the coding
 
 - [**Arcade Universo**](https://app.codesignal.com/arcade)
     <details open>
-           <summary> <a href="hola.com">Intro</a></summary>
+           <summary> <a href="https://app.codesignal.com/arcade/intro">Intro</a></summary>
 
-     - Add
-     - Century from year
-     - Check palindrome
-     - Adjacent elements product
-     - Shape area
-     - Make array consecutive 2
-     - Almost increasing sequence
-     - Matrix elements sum
+     - [Add](Add/add.md)
+     - [Century from year]()
+     - [Check palindrome]()
+     - [Adjacent elements product]()
+     - [Shape area]()
+     - [Make array consecutive 2]()
+     - [Almost increasing sequence]()
+     - [Matrix elements sum]()
  
      </details>
     <details open>
