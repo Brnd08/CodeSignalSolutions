@@ -33,7 +33,7 @@
 
 ## Solutions:
 
-- [JS solution](Century_from_year.js)
+- [JS solution](century_from_year.js)
 
 ![JS Execution](century_from_year_js.png)
 
