@@ -14,7 +14,7 @@ In this document you can also find a list containing the links to all the coding
     <details open>
            <summary> <a href="https://app.codesignal.com/arcade/intro">Intro</a></summary>
 
-     - [Add](Add/add.md)
+     - [Add](Add/Add.md)
      - [Century from year]()
      - [Check palindrome]()
      - [Adjacent elements product]()
