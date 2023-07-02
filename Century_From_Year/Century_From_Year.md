@@ -29,6 +29,8 @@
 </li>
 </ul>
 </div>
+
+
 ## Solutions:
 
 - [JS solution](Century_from_year.js)
