@@ -33,9 +33,9 @@
 ## Solutions:
 
 - [JS solution](Add.js)
-
+https://github.com/Brnd08/CodeSignalSolutions/blob/94b048e14f27476832e3a0eca37f290fecc8477c/Add/Add.js#L1-L6
 ![JS Execution](add_js.png)
 
 - [Java solution](Add.java)
- 
+https://github.com/Brnd08/CodeSignalSolutions/blob/54cf2bb87059fcd5a3e248bf3a3846a650a1f37c/Add/Add.java#L1-L10 
 ![Java Execution](add_java.png)
