@@ -34,9 +34,9 @@
 ## Solutions:
 
 - [JS solution](century_from_year.js)
-
+https://github.com/Brnd08/CodeSignalSolutions/blob/d1f333031b20ff1eee097445297d97e50ab84049/Century_From_Year/century_from_year.js#L1-L6
 ![JS Execution](century_from_year_js.png)
 
 - [Java solution](Century_from_year.java)
-
+https://github.com/Brnd08/CodeSignalSolutions/blob/d1f333031b20ff1eee097445297d97e50ab84049/Century_From_Year/Century_from_year.java#L1-L14
 ![Java Execution](century_from_year_java.png)
