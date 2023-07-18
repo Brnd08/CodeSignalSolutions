@@ -49,9 +49,9 @@ String <span class="hljs-title function_">helloWorld</span><span class="hljs-par
 ## Solutions:
 
 - [JS solution](Check_palindrome.js)
-
+https://github.com/Brnd08/CodeSignalSolutions/blob/a7481de60972fefc6595e5d3ac44e0bfaa529221/Check_Palindrome/Check_palindrome.js#L1-L10
 ![JS Execution](check_palindrome_js.png)
 
 - [Java solution](Check_palindrome.java)
-
+https://github.com/Brnd08/CodeSignalSolutions/blob/a7481de60972fefc6595e5d3ac44e0bfaa529221/Check_Palindrome/Check_palindrome.java#L1-L14
 ![Java Execution](check_palindrome_java.png)
