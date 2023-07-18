@@ -31,9 +31,10 @@
 ## Solutions:
 
 - [JS solution](Adjacent_elements_product.js)
-
+https://github.com/Brnd08/CodeSignalSolutions/blob/54cf2bb87059fcd5a3e248bf3a3846a650a1f37c/AdjacentElementsProduct/adjacent_elements_product.js#L1-L12
 ![JS Execution](adjacent_elements_product_js.png)
 
+
 - [Java solution](Adjacent_elements_product.java)
- 
+https://github.com/Brnd08/CodeSignalSolutions/blob/54cf2bb87059fcd5a3e248bf3a3846a650a1f37c/AdjacentElementsProduct/Adjacent_elements_product.java#L1-L18 
 ![Java Execution](adjacent_elements_product_java.png)
