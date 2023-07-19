@@ -35,7 +35,7 @@
 ## Solutions:
 
 - [JS solution](Shape_Area.js)
-https://github.com/Brnd08/CodeSignalSolutions/blob/ddfb49de4f5890099eaa2e2e29a825286531c4a9/Shape_Area/Shape_Area.js#L1-L9
+https://github.com/Brnd08/CodeSignalSolutions/blob/c55148cd2dea790d7bcf9ead438e186b0de53a42/Shape_Area/Shape_area.js#L1-L9
 ![JS Execution](shape_area_js.png)
 
 - [Java solution](Shape_Area.java)
