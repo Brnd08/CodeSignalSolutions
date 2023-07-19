@@ -24,19 +24,19 @@ In this document you can also find a list containing the links to all the coding
      - [Matrix elements sum]()
  
      </details>
-    <details open>
+    <details>
            <summary> <a href="hola.com">The core</a></summary>
          
      - Add two digits
       
      </details>
-    <details open>
+    <details>
            <summary> <a href="hola.com">Databases</a></summary>
          
      - Project list
       
      </details>
-    <details open>
+    <details>
            <summary> <a href="hola.com">Graphs</a></summary>
          
      - New Road System
