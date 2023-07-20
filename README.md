@@ -17,9 +17,9 @@ In this document you can also find a list containing the links to all the coding
      - [Add](Add/Add.md)
      - [Century from year](Century_From_Year/Century_From_Year.md)
      - [Check palindrome](Check_Palindrome/Check_Palindrome.md)
-     - [Adjacent elements product](AdjacentElementsProduct/Adjacent_Elements_Product.md)
-     - [Shape area]()
-     - [Make array consecutive 2]()
+     - [Adjacent elements product](Adjacent_Elements_Products/Adjacent_Elements_Product.md)
+     - [Shape area](Shape_Area/Shape_Area.md)
+     - [Make array consecutive 2](Make_Array_Consecutive_2/Make_Array_Consecutive_2.md)
      - [Almost increasing sequence]()
      - [Matrix elements sum]()
  
