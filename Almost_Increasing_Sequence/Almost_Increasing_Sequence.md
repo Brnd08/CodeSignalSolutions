@@ -39,10 +39,10 @@
 ## Solutions:
 
 - [JS solution](Almost_increasing_sequence.js)
-https://github.com/Brnd08/CodeSignalSolutions/blob/b458e8fe3ef83f736b99babedae649969ae0267c/Almost_Increasing_Sequence/Almost_increasing_sequence.js#L1-L25
+https://github.com/Brnd08/CodeSignalSolutions/blob/b17982015cc32bea57323a333ba7b8bbe04d2ba7/Almost_Increasing_Sequence/Almost_increasing_sequence.js#L1-L25
 ![JS Execution](almost_increasing_sequence_js.png)
 
 
 - [Java solution](Almost_increasing_sequence.java)
-https://github.com/Brnd08/CodeSignalSolutions/blob/106881ca8e5ddf77a4982d04481294b164b12903/Almost_Increasing_Sequence/Almost_increasing_sequence.java#L13-L43
+https://github.com/Brnd08/CodeSignalSolutions/blob/b17982015cc32bea57323a333ba7b8bbe04d2ba7/Almost_Increasing_Sequence/Almost_increasing_sequence.java#L13-L43
 ![Java Execution](almost_increasing_sequence_java.png)
