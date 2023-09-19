@@ -20,7 +20,7 @@ In this document you can also find a list containing the links to all the coding
      - [Adjacent elements product](Adjacent_Elements_Products/Adjacent_Elements_Product.md)
      - [Shape area](Shape_Area/Shape_Area.md)
      - [Make array consecutive 2](Make_Array_Consecutive_2/Make_Array_Consecutive_2.md)
-     - [Almost increasing sequence](Almost_Increasing_Sequence/Almost_incresing_sequence.md)
+     - [Almost increasing sequence](Almost_Increasing_Sequence/Almost_Increasing_Sequence.md)
      - [Matrix elements sum]()
  
      </details>
