@@ -58,5 +58,5 @@ https://github.com/Brnd08/CodeSignalSolutions/blob/ab6060db73b9635a723c81695888b
 
 
 - [Java solution](Matrix_elements_sum.java)
-https://github.com/Brnd08/CodeSignalSolutions/blob/106881ca8e5ddf77a4982d04481294b164b12903/Matrix_Elements_Sum/Matrix_elements_sum.java#L13-L43
+https://github.com/Brnd08/CodeSignalSolutions/blob/633597a499a24f872e48d7a8a75bc60c71850e40/Matrix_Elements_Sum/Matrix_elements_sum.java#L3-L28
 ![Java Execution](matrix_elements_sum_java.png)
