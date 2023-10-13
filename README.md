@@ -21,7 +21,7 @@ In this document you can also find a list containing the links to all the coding
      - [Shape area](Shape_Area/Shape_Area.md)
      - [Make array consecutive 2](Make_Array_Consecutive_2/Make_Array_Consecutive_2.md)
      - [Almost increasing sequence](Almost_Increasing_Sequence/Almost_Increasing_Sequence.md)
-     - [Matrix elements sum]()
+     - [Matrix elements sum](Matrix_Elements_Sum/Matrix_Elements_Sum.md)
  
      </details>
     <details>
