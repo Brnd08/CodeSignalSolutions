@@ -21,7 +21,7 @@ In this document you can also find a list containing the links to all the coding
 1. [Make array consecutive 2](Make_Array_Consecutive_2/Make_Array_Consecutive_2.md)
 1. [Almost increasing sequence](Almost_Increasing_Sequence/Almost_Increasing_Sequence.md)
 1. [Matrix elements sum](Matrix_Elements_Sum/Matrix_Elements_Sum.md)
-1. [All longest Strings](All_Lngest_Strings/All_Lngest_Strings.md)
+1. [All longest Strings](All_Longest_Strings/All_Longest_Strings.md)
 1. [Common Character Count](Common_Character_Count/Common_Character_Count.md)
 1. [Is Lucky](Is_Lucky/Is_Lucky.md)
 1. [Sort By Heigth](Sort_By_Heigth/Sort_By_Heigth.md)
