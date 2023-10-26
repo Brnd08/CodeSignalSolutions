@@ -24,7 +24,7 @@ In this document you can also find a list containing the links to all the coding
 1. [All longest Strings](All_Longest_Strings/All_Longest_Strings.md)
 1. [Common Character Count](Common_Character_Count/Common_Character_Count.md)
 1. [Is Lucky](Is_Lucky/Is_Lucky.md)
-1. [Sort By Heigth](Sort_By_Heigth/Sort_By_Heigth.md)
+1. [Sort By Height](Sort_By_Height/Sort_By_Height.md)
 1. [Reverse in Parenthesis](Reverse_In_Parenthesis/Reverse_In_Parenthesis.md)
 1. [Alternating Sums](Alternating_Sums/Alternating_Sums.md)
 1. [Add Border](Add_Border/Add_Border.md)
